@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Search indexing is disabled with noindex meta tags until publication approval.
